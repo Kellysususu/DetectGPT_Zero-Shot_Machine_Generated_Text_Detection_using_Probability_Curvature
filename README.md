@@ -1,0 +1,1 @@
+# DetectGPT_Zero-Shot_Machine_Generated_Text_Detection_using_Probability_Curvature
