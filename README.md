@@ -1,7 +1,7 @@
 # DetectGPT: Zero-Shot Machine Generated Text Detection Using Probability Curvature
 
 ## Paper
-Mitchell, E., Lee, Y., Khazatsky, A., Manning, C. D., &amp; Finn, C. (2023, January 26). Detectgpt: Zero-shot machine-generated text detection using probability curvature. arXiv.org. 
+Mitchell, E., Lee, Y., Khazatsky, A., Manning, C. D., &amp; Finn, C. (2023, January 26). Detectgpt: Zero-shot machine-generated text detection using probability curvature. 
 
 ## Overview
 The fluency and factual knowledge of large language models (LLMs) heightens the need for corresponding systems to detect whether a piece of
